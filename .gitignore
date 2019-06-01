@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Dataset
+data.csv
+
+# Problem Statement
+Interview Task_ Locale.pdf
